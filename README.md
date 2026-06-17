@@ -10,10 +10,10 @@ Some of it is shipped. Some of it is mid-build. All of it is real work, shown as
 
 ### On the bench
 
-- **Apps & web** — **NeoBoard Compass**, a study companion for neonatal-perinatal board prep `in progress` — plus smaller experiments like realtime multiplayer cursors and presence.
-- **Games** — **TowerGuard**, a tower-defense game for iOS, built in Unity.
+- **Apps & web** — **NeoBoard Compass**, a study companion for neonatal-perinatal board prep `live`, plus a row of small iOS utility apps in pre-release.
+- **Extensions** — **Readable Capture PDF** is on the Chrome Web Store — turn any part of a page into a clean, searchable PDF.
 - **AI skills for Claude agents** — open-source skills that hand agents new capabilities, in [`claude-skills`](https://github.com/JCreatesGH/claude-skills).
-- **Also on the shelf** — books on Amazon, functional 3D prints (files free to download), and short videos on using AI to do real work.
+- **Also on the shelf** — a Unity game in progress, books on Amazon, functional 3D prints (free to download), and short videos on using AI to do real work.
 
 ---
 
@@ -34,7 +34,7 @@ Some of it is shipped. Some of it is mid-build. All of it is real work, shown as
 
 ### Find me
 
-- **Site** — jcreates.dev *(coming soon)*
+- **Site** — **[jcreates.dev](https://jcreates.dev)**
 - **YouTube** — [@JCreatesYT](https://www.youtube.com/@JCreatesYT) · practical AI, taught by doing
 - **MakerWorld** — [@jj_creates](https://makerworld.com/en/@jj_creates) · 3D prints, files free to download
 - **LinkedIn** — [in/joshuajohncs](https://www.linkedin.com/in/joshuajohncs/)
