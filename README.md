@@ -28,7 +28,7 @@ Some of it is shipped. Some of it is mid-build. All of it is real work, shown as
 | [`runbook-as-code`](https://github.com/JCreatesGH/runbook-as-code) | Operational runbooks defined in YAML — structured, checkable, rendered to Markdown. |
 | [`audit-normalizer`](https://github.com/JCreatesGH/audit-normalizer) | Pulls audit logs from different systems into one common shape. |
 
-~58 public repos in all — extensions, linters, scaffolds, games, and a few odd experiments.
+— extensions, linters, scaffolds, games, and a few odd experiments.
 
 ---
 
