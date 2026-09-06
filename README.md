@@ -11,7 +11,7 @@ Some of it is shipped. Some of it is mid-build. All of it is real work, shown as
 ### On the bench
 
 - **iOS, in App Store review** — a ten-app portfolio of small, focused utility apps (resellers, makers, pros, hobbyists), plus a memory-palace trainer and a living record of your home. All SwiftUI, all local-first.
-- **iOS games, mid-build** — a wave of small original games headed for the App Store.
+- **iOS games** — a wave of small original games; the first few are in App Store review, the rest mid-build.
 - **Apps & web** — **NeoBoard Compass**, a study companion for neonatal-perinatal board prep `live`.
 - **Extensions** — **Readable Capture PDF** is on the Chrome Web Store — turn any part of a page into a clean, searchable PDF.
 - **AI skills for Claude agents** — open-source skills that hand agents new capabilities, in [`claude-skills`](https://github.com/JCreatesGH/claude-skills).
